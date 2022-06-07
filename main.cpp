@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       dog
+//  action 1:   dig hole 
+dog.digHole();
+//  action 2:   eat
+dog.eat();
+//  action 3:   poop
+dog.poop();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:         elevator
+//  action 1:     close the doors
+elevator.closeDoor();
+//  action 2:     open the doors
+elevator.openDoor();
+//  action 3:     ascend
+elevator.ascend();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:          plant
+//  action 1:     absorb sunlight
+plant.absorbLight();
+//  action 2:     grow roots
+plant.growRoots();
+//  action 3:     bloom
+plant.bloom();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:          watch
+//  action 1:     move hour hand
+watch.moveHour();
+//  action 2:     move second hand
+watch.moveSecond();
+//  action 3:     move minute hand
+watch.moveMinute();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:         Terminator
+//  action 1:     locate John
+terminator.locateJohn();
+//  action 2:     say "Asta la vista"
+terminator.sayCatchPhrase();
+//  action 3:     walk like a robot
+terminator.walkRobot();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:          wind
+//  action 1:     blow strongly
+wind.blowStrong();
+//  action 2:     create gust
+wind.gust();
+//  action 3: c    hange direction
+wind.changeDirection();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:          battery
+//  action 1:     provide set voltage
+battery.setVoltage();
+//  action 2:     provide current
+battery.setCurrent();
+//  action 3:     power electronic device
+battery.power();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:          electron
+//  action 1:      move to another atom
+electron.transfer();
+//  action 2:      vibrate
+electronic.vibrate();
+//  action 3:      orbit nucleus 
+electronic.orbitNucleus();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:          speaker
+//  action 1:      extend speaker cone
+speaker.extend();
+//  action 2:      retract speaker cone
+speaker.retract();
+//  action 3:      increase distance of movement
+speaker.increaseDistance();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:          brain 
+//  action 1:      change brainwave to alpha
+brain.toAlpha();
+//  action 2:      inhibit dopamine receptor
+brain.unhibitDopamine();
+//  action 3:      activate neurons in neocortex
+brain.fireNeocortexNeurons();
 
 
 #endif
